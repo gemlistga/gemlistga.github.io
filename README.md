@@ -1,2 +1,2 @@
-# gemlistga.github.io
+# gemlist.ga
 Gem coins is here...
